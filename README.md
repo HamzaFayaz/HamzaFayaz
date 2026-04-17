@@ -6,18 +6,18 @@
 
 AI Engineer building production-grade systems in agentic AI, computer vision, and backend automation.
 
-## About
+## ðŸš€ About Me
 
 - AI Engineer focused on turning manual business operations into reliable AI-assisted workflows.
 - Active in order automation, content automation, edge AI prototypes, and voice-first assistants.
 - Working across Python backends, agent orchestration, cloud deployment, and app integrations.
 
-## Experience Snapshot
+## ðŸ’¼ Experience Snapshot
 
 - **AI Automation Engineer (Remote)** â€” EARL OF ETON LIMITED *(Apr 2025 - Present)*
 - **AI/ML Engineer, Contract (Remote)** â€” Harp Technologies *(Dec 2025 - Mar 2026)*
 
-## Tech Stack
+## ðŸ› ï¸ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,7 +37,7 @@ AI Engineer building production-grade systems in agentic AI, computer vision, an
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
 </p>
 
-## Featured Projects
+## ðŸŒŸ Featured Projects
 
 ### 1) Linnworks Agentic Order Automation + Van-Sales Mobile Workflow *(Private company project)*
 - Integrated an AWS + LangGraph automation agent with a van-sales mobile workflow for end-to-end order operations.
@@ -63,17 +63,22 @@ AI Engineer building production-grade systems in agentic AI, computer vision, an
 - Built real-time enemy detection + targeting pipeline using YOLOv10 and ByteTrack with CUDA optimization (60+ FPS).
 - Created a custom dataset and modular detection/tracking/control architecture with a Tkinter runtime dashboard.
 
-## Education
+## ðŸŽ“ Education
 
 **University of Engineering and Technology Mardan**  
 Bachelor of Science in Computer Software Engineering (Sep 2022 - Jun 2026)  
 CGPA: 3.3
 
-## Contact
+## ðŸ¤ Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/hamza-fayaz-973bb4236/
-- **GitHub:** https://github.com/HamzaFayaz
-- **Email:** hamza.fayaz.ai@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/hamza-fayaz-973bb4236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hamza.fayaz.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=HamzaFayaz&style=flat&color=0e75b6" alt="" width="1" height="1" />
 
