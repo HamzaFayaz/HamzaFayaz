@@ -4,8 +4,7 @@
 
 # Hamza Fayaz
 
-AI Engineer building production-grade systems in agentic AI, computer vision, and backend automation.
-
+AI Engineer building production-grade systems in agentic AI, computer vision, and backend engineering.
 ## About Me
 
 - AI Engineer focused on turning manual business operations into reliable AI-assisted workflows.
