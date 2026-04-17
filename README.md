@@ -79,7 +79,9 @@ CGPA: 3.3
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=HamzaFayaz&style=flat&color=0e75b6" alt="" width="1" height="1" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamzaFayaz&style=flat&color=0e75b6" alt="Profile views" />
+</p>
 
 ---
 
